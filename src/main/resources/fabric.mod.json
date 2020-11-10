@@ -1,0 +1,25 @@
+{
+	"schemaVersion": 1,
+	"id": "colorfulcolumns",
+	"version": "${version}",
+	"name": "Colorful Columns",
+	"description": "Adds column variants of concrete and terracotta.",
+	"authors": [
+		"haykam821"
+	],
+	"contact": {
+		"homepage": "https://github.com/haykam821/Colorful-Columns#readme",
+		"issues": "https://github.com/haykam821/Colorful-Columns/issues"
+	},
+	"entrypoints": {
+		"main": [
+			"io.github.haykam821.colorfulcolumns.Main"
+		]
+	},
+	"license": "MIT",
+	"icon": "assets/colorfulcolumns/icon.png",
+	"depends": {
+		"fabricloader": ">=0.4.0",
+		"columns": "*"
+	}
+}

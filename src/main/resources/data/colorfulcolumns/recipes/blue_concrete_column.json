@@ -1,0 +1,18 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"group": "colorfulcolumns:concrete_column",
+	"pattern": [
+		"bbb",
+		" b ",
+		"bbb"
+	],
+	"key": {
+		"b": {
+			"item": "minecraft:blue_concrete"
+		}
+	},
+	"result": {
+		"item": "colorfulcolumns:blue_concrete_column",
+		"count": 6
+	}
+}

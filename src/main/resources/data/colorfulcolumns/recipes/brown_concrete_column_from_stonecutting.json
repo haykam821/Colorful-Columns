@@ -1,0 +1,9 @@
+{
+	"type": "minecraft:stonecutting",
+	"group": "colorfulcolumns:terracotta_column",
+	"ingredient": {
+		"item": "minecraft:brown_concrete"
+	},
+	"result": "colorfulcolumns:brown_concrete_column",
+	"count": 1
+}

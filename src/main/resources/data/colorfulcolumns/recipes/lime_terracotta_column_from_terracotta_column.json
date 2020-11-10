@@ -1,0 +1,21 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"group": "colorfulcolumns:terracotta_column",
+	"pattern": [
+		"lll",
+		"ltl",
+		"lll"
+	],
+	"key": {
+		"t": {
+			"item": "colorfulcolumns:terracotta_column"
+		},
+		"l": {
+			"item": "minecraft:lime_dye"
+		}
+	},
+	"result": {
+		"item": "colorfulcolumns:lime_terracotta_column",
+		"count": 8
+	}
+}

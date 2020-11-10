@@ -1,0 +1,32 @@
+{
+	"parent": "minecraft:recipes/root",
+	"rewards": {
+		"recipes": [
+			"colorfulcolumns:green_terracotta_column_from_terracotta_column"
+		]
+	},
+	"criteria": {
+		"has_terracotta_column": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"item": "colorfulcolumns:terracotta_column"
+					}
+				]
+			}
+		},
+		"has_the_recipe": {
+			"trigger": "minecraft:recipe_unlocked",
+			"conditions": {
+				"recipe": "colorfulcolumns:green_terracotta_column_from_terracotta_column"
+			}
+		}
+	},
+	"requirements": [
+		[
+			"has_terracotta_column",
+			"has_the_recipe"
+		]
+	]
+}

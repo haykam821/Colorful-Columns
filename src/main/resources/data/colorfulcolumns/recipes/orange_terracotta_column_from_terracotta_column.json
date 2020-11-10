@@ -1,0 +1,21 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"group": "colorfulcolumns:terracotta_column",
+	"pattern": [
+		"ooo",
+		"oto",
+		"ooo"
+	],
+	"key": {
+		"t": {
+			"item": "colorfulcolumns:terracotta_column"
+		},
+		"o": {
+			"item": "minecraft:orange_dye"
+		}
+	},
+	"result": {
+		"item": "colorfulcolumns:orange_terracotta_column",
+		"count": 8
+	}
+}

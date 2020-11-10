@@ -1,0 +1,21 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"group": "colorfulcolumns:terracotta_column",
+	"pattern": [
+		"rrr",
+		"rtr",
+		"rrr"
+	],
+	"key": {
+		"t": {
+			"item": "colorfulcolumns:terracotta_column"
+		},
+		"r": {
+			"item": "minecraft:red_dye"
+		}
+	},
+	"result": {
+		"item": "colorfulcolumns:red_terracotta_column",
+		"count": 8
+	}
+}

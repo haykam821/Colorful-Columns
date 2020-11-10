@@ -1,0 +1,18 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"group": "colorfulcolumns:concrete_column",
+	"pattern": [
+		"yyy",
+		" y ",
+		"yyy"
+	],
+	"key": {
+		"y": {
+			"item": "minecraft:yellow_concrete"
+		}
+	},
+	"result": {
+		"item": "colorfulcolumns:yellow_concrete_column",
+		"count": 6
+	}
+}

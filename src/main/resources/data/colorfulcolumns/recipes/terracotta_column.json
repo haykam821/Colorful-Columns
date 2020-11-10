@@ -1,0 +1,18 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"group": "colorfulcolumns:terracotta_column",
+	"pattern": [
+		"ttt",
+		" t ",
+		"ttt"
+	],
+	"key": {
+		"t": {
+			"item": "minecraft:terracotta"
+		}
+	},
+	"result": {
+		"item": "colorfulcolumns:terracotta_column",
+		"count": 6
+	}
+}

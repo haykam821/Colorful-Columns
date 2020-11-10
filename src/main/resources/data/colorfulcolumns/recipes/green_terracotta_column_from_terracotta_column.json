@@ -1,0 +1,21 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"group": "colorfulcolumns:terracotta_column",
+	"pattern": [
+		"ggg",
+		"gtg",
+		"ggg"
+	],
+	"key": {
+		"t": {
+			"item": "colorfulcolumns:terracotta_column"
+		},
+		"g": {
+			"item": "minecraft:green_dye"
+		}
+	},
+	"result": {
+		"item": "colorfulcolumns:green_terracotta_column",
+		"count": 8
+	}
+}

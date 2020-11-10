@@ -1,0 +1,21 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"group": "colorfulcolumns:terracotta_column",
+	"pattern": [
+		"ppp",
+		"ptp",
+		"ppp"
+	],
+	"key": {
+		"t": {
+			"item": "colorfulcolumns:terracotta_column"
+		},
+		"p": {
+			"item": "minecraft:pink_dye"
+		}
+	},
+	"result": {
+		"item": "colorfulcolumns:pink_terracotta_column",
+		"count": 8
+	}
+}

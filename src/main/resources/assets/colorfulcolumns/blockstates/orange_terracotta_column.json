@@ -1,0 +1,27 @@
+{
+	"multipart": [
+		{
+			"apply": {
+				"model": "colorfulcolumns:block/orange_terracotta_column_center"
+			}
+		},
+		{
+			"when": {
+				"down": true
+			},
+			"apply": {
+				"model": "colorfulcolumns:block/orange_terracotta_column_end"
+			}
+		},
+		{
+			"when": {
+				"up": true
+			},
+			"apply": {
+				"model": "colorfulcolumns:block/orange_terracotta_column_end",
+				"x": 180,
+				"uvlock": true
+			}
+		}
+	]
+}

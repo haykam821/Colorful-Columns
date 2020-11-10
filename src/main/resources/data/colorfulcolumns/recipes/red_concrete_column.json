@@ -1,0 +1,18 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"group": "colorfulcolumns:concrete_column",
+	"pattern": [
+		"rrr",
+		" r ",
+		"rrr"
+	],
+	"key": {
+		"r": {
+			"item": "minecraft:red_concrete"
+		}
+	},
+	"result": {
+		"item": "colorfulcolumns:red_concrete_column",
+		"count": 6
+	}
+}
